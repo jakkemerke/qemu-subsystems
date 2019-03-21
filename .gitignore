@@ -1,0 +1,19 @@
+# Forget these =P
+
+*.iso
+*.qcow2
+
+# emacs
+*~
+
+# Mac
+.DS_Store
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+$RECYCLE.BIN/
+bin/
+
